@@ -1,0 +1,1 @@
+This is a game of hangman created following Kylie Ying on https://www.youtube.com/watch?v=8ext9G7xspg&t=2105s with added file reader / creator which reads text element in same project folder and creates a new file copied from this with formatting replaced
